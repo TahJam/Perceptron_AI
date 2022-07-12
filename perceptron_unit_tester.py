@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Unit tester for ECS 170 Assignment 5.
+"""Unit tester
 
 Usage: Put this in the folder that contains your implemented perceptron.py, and
     in the same directory, call:
 
         $ python perceptron_unit_tester.py
-
-    Do NOT modify anything in this file. Make sure you pass the unit test cases
-    before submission.
-
-Authors:
-    Fangzhou Li - fzli@ucdavis.edu
 
 """
 import unittest
